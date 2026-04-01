@@ -1,0 +1,13 @@
+# The Rising Power Demands of Frontier AI Models
+
+**Published:** 2025-08-18
+**Medium:** [https://medium.com/@kyle-t-jones/the-rising-power-demands-of-frontier-ai-models-f4584fae9412](https://medium.com/@kyle-t-jones/the-rising-power-demands-of-frontier-ai-models-f4584fae9412)
+
+## About
+
+Place the code for this article in this repository.
+The original article export is saved as `article.md`.
+
+## Files
+
+Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
