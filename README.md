@@ -1,7 +1,7 @@
 # The Rising Power Demands of Frontier AI Models
 
-**Published:** 2025-08-18
-**Medium:** [https://medium.com/@kyle-t-jones/the-rising-power-demands-of-frontier-ai-models-f4584fae9412](https://medium.com/@kyle-t-jones/the-rising-power-demands-of-frontier-ai-models-f4584fae9412)
+Published: 2025-08-18
+Medium: [https://medium.com/@kyle-t-jones/the-rising-power-demands-of-frontier-ai-models-f4584fae9412](https://medium.com/@kyle-t-jones/the-rising-power-demands-of-frontier-ai-models-f4584fae9412)
 
 ## About
 
