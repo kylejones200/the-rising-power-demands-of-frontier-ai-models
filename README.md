@@ -11,14 +11,7 @@ The chart plots the total power draw required (in watts) for AI models over time
 
 This means that what required 1 megawatt in 2020 could require more than 10 megawatts just five years later. Training AI is no longer just about algorithms and GPUs --- it's increasingly about electricity.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
